@@ -1,4 +1,4 @@
-## Oi me chamo Alex Nunes, sou estudante de programação e amante da tecnologia!
+## Oi pode me chama de Le, sou dev Full Stack com foco em FrontEnd e amante da tecnologia!
 <div align="center">
   <a href="https://github.com/alexnunesc">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=alexnunesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/AlexNunesC" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexnunesestudos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
