@@ -1,4 +1,8 @@
 ## Oi pode me chama de Alex, sou dev Full Stack com foco em Frontend!
+<div>
+  <p>🎓 Concluí um curso de um ano na Trybe focado no desenvolvimento web full Stack, onde explorei diversas áreas do desenvolvimento de software. Durante o curso, encontrei minha paixão pelo desenvolvimento Frontend e decidi me aprofundar nessa área.</p>
+  <p>💼 Atualmente, estou comprometida em aprimorar minhas habilidades como desenvolvedora backend, trabalhando em projetos desafiadores e buscando sempre aprender mais.</p>
+</div>
 <div align="center">
   <a href="https://github.com/alexnunesc">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=alexnunesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
