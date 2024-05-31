@@ -1,7 +1,6 @@
-## Oi pode me chama de Alex, sou dev Full Stack com foco em Frontend!
+## Hey Nunes aqui!
 <div>
-  <p>🎓 Concluí um curso de um ano na Trybe focado no desenvolvimento web full Stack, onde explorei diversas áreas do desenvolvimento de software. Durante o curso, encontrei minha paixão pelo desenvolvimento Frontend e decidi me aprofundar nessa área.</p>
-  <p>💼 Atualmente, estou comprometida em aprimorar minhas habilidades como desenvolvedora backend, trabalhando em projetos desafiadores e buscando sempre aprender mais.</p>
+  <p>💼 Atualmente, estou comprometido em aprimorar minhas habilidades como desenvolvedor backend, trabalhando em projetos desafiadores e buscando sempre aprender mais.</p>
 </div>
 <div align="center">
   <a href="https://github.com/alexnunesc">
