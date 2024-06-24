@@ -1,7 +1,4 @@
 ## Hey Nunes aqui!
-<div>
-  <p>💼 Atualmente, estou comprometido em aprimorar minhas habilidades como desenvolvedor backend, trabalhando em projetos desafiadores e buscando sempre aprender mais.</p>
-</div>
 <div align="center">
   <a href="https://github.com/alexnunesc">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=alexnunesc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
